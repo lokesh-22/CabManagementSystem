@@ -1,0 +1,9 @@
+41,lokes22,driver12,Airport,Mall,8,Car
+41,lokes22,driver12,Airport,Mall,8,Car
+41,lokes22,driver12,Airport,Mall,8,Car
+41,lokes22,driver12,Mall,Downtown,5,Car
+41,lokes22,driver12,Downtown,Train Station,10,Car
+41,lokes22,driver22,Airport,Train Station,10,Auto
+41,lokesh7,driver12,Downtown,Train Station,10,Car
+1732001378-1577,lokesh22,driver12,Downtown,Mall,8,Car
+479-1907,lokesh22,driver12,Airport,Train Station,10,Car
